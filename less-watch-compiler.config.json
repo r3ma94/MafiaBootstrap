@@ -1,0 +1,6 @@
+{
+  "allowedExtensions": [".less"],
+  "watchFolder": "less",
+  "outputFolder": "styles",
+  "mainFile": "styles.less"
+}
